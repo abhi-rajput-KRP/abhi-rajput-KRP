@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhi-rajput-KRP
-- 👀 I’m interested in JS, Python ,MongoDB and Backend development.
+- 👀 I’m interested in JS, Python ,Data Science and Backend programing.
 - 🌱 I’m currently learning JS.
 
 <!---
