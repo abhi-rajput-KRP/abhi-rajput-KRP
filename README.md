@@ -1,23 +1,6 @@
 👋 Hi, I’m Abhi Rajput
 
 🎓 B.Tech student at University School of Automation and Robotics, GGSIPU-EDC
-💻 Passionate about Development, UI/UX, and Machine Learning
-🌱 Currently exploring Web Development & UI/UX basics
-
-
----
-
-🚀 About Me
-
-🌟 Beginner in Python (with Tkinter), HTML, CSS
-
-🔧 Learning C and JavaScript
-
-🎯 Interested in Web & Mobile Development
-
-📐 Love experimenting with design, user experience, and AI-driven solutions
-
-
 
 ---
 
@@ -35,14 +18,15 @@ Next Goals:
 
 ✅ Frontend frameworks (React / Next.js)
 
+✅ Backend (Flask API)
+
 ✅ Machine Learning basics (Scikit-learn, TensorFlow)
-
-
 
 
 ---
 
-📌 Interests
+📌 Interests :
+
 
 🌍 Web Development
 
