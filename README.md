@@ -1,5 +1,5 @@
 # 💫 About Me:
-I👋 Hi, I’m Abhi Rajput<br><br>🎓 B.Tech student at University School of Automation and Robotics, GGSIPU-EDC<br><br><br>
+👋 Hi, I’m Abhi Rajput<br><br>🎓 B.Tech student at University School of Automation and Robotics, GGSIPU-EDC<br><br><br>
 
 
 ## 🌐 Socials:
