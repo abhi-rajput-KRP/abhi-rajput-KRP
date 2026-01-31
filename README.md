@@ -12,7 +12,4 @@ I am a B-Tech student in Artificial Intelligence and Machine learning.<br>I am i
 ![](https://nirzak-streak-stats.vercel.app/?user=abhi-rajput-KRP&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-rajput-KRP&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abhi-rajput-KRP&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
