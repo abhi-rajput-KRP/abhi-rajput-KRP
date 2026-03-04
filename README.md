@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a B-Tech student in Artificial Intelligence and Machine learning.<br>I am interested in Machine Learning, Web Development and Mobile Development.<br>
+I am a B-Tech student in Artificial Intelligence and Machine learning.<br>I am interested in Web Development and Mobile Development.<br>
 
 
 ## 🌐 Socials:
